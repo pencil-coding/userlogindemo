@@ -7,4 +7,11 @@ import org.springframework.stereotype.Controller;
  */
 @Controller
 public class PersonController {
+
+    /**
+     * 测试打分支
+     */
+    public void testGitBranch(){
+
+    }
 }
